@@ -1,5 +1,6 @@
-# IBMITCyber
-## IT Fundamentals for Cybersecurity Specialization
+# IBMITCYBER
+
+## IT Fundamentals for Cybersecurity Specialization (4 course series)
 
 There are a growing number of exciting, well-paying jobs in today’s security industry that do not require a traditional college degree.  Forbes estimates that there will be as many as 3.5 million unfilled positions in the industry worldwide by 2021! One position with a severe shortage of skills is as a junior cybersecurity analyst. 
 
